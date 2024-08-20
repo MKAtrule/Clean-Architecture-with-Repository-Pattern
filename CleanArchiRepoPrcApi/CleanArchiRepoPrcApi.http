@@ -1,0 +1,6 @@
+@CleanArchiRepoPrcApi_HostAddress = http://localhost:5173
+
+GET {{CleanArchiRepoPrcApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
